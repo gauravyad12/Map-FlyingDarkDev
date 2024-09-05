@@ -50,6 +50,6 @@ We welcome contributions! If you encounter any issues or have suggestions for ne
 
 ## **License**
 
-This project is licensed under the MIT License. Please refer to the `LICENSE` file for more details.
+This project is licensed under the MIT License. Please refer to the [LICENSE] (#LICENSE) file for more details.[Go to Section One](#LICENSE) https://github.com/gauravyad12/Map-FlyingDarkDev/blob/main/LICENSE.txt
 
 ---
