@@ -25,7 +25,7 @@
 
 1. Clone or download the project repository:
     ```bash
-    git clone https://github.com/yourusername/Map-FlyingDarkDev.git
+    git clone https://github.com/gauravyad12/Map-FlyingDarkDev.git
     ```
 2. Open **Google Chrome** and navigate to the **Extensions** page (`chrome://extensions/`).
 3. Enable **Developer Mode** by toggling the switch in the top-right corner.
